@@ -49,7 +49,7 @@ exports.createUser = catchAsync(async (req, res, next) => {
     await newUser.save({ validateBeforeSave: false });
   }
 
-  const verficationURL = `${process.env.FRONTEND_URL}/verify-email/${verificationToken}`;
+  const verficationURL = `${process.env.FRONTEND_URL}/verify-email/${verficationToken}`;
 
   try {
     await sgMail.send({
