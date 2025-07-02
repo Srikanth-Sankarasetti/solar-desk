@@ -1,0 +1,1730 @@
+[
+  {
+    "plantName": "Hyundai Motors Ltd",
+    "capacityKwp": "9552",
+    "plantType": "opex",
+    "location": "Kanchipuram, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Ultratech Balaji Cement",
+    "capacityKwp": "4586.6",
+    "plantType": "opex",
+    "location": "Krishna, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NCL Mattapally",
+    "capacityKwp": "4502.4",
+    "plantType": "renew opex",
+    "location": "Nalgonda, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "KA_C&I_Toyota 1",
+    "capacityKwp": "3640",
+    "plantType": "renew opex",
+    "location": "Bengaluru Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Aparna Enterprises Limited",
+    "capacityKwp": "2691.36",
+    "plantType": "opex",
+    "location": "East Godavari, Peddapuram, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Manjushree Technopack",
+    "capacityKwp": "2669.4",
+    "plantType": "renew opex",
+    "location": "Bangalore Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Ultratech Ginigera Cement",
+    "capacityKwp": "2494.8",
+    "plantType": "opex",
+    "location": "Koppal, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "MOBIS INDIA LIMITED- PARTS PLANT",
+    "capacityKwp": "2465.6",
+    "plantType": "opex",
+    "location": "Kancheepuram, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "MADURA COATS AMBSAMUDRAM",
+    "capacityKwp": "2115.52",
+    "plantType": "renew opex",
+    "location": "Tirunelveli, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "HSIL Limited-Bhongir",
+    "capacityKwp": "2105.81",
+    "plantType": "opex",
+    "location": "Nalgonda, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "MOBIS INDIA LIMITED- MODULE PLANT",
+    "capacityKwp": "2087.05",
+    "plantType": "opex",
+    "location": "Kancheepuram, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "SCR Hyderabad",
+    "capacityKwp": "1638.1",
+    "plantType": "renew opex",
+    "location": "Hyderabad, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NCL Kondapalli Phase 2",
+    "capacityKwp": "1592.1",
+    "plantType": "opex",
+    "location": "Krishna, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Sree Ayyanar Spinning & Weaving Mills Pvt Ltd",
+    "capacityKwp": "1506.2",
+    "plantType": "opex",
+    "location": "Virudhunagar, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Solara Active Pharma, Puducherry",
+    "capacityKwp": "1283.05",
+    "plantType": "opex",
+    "location": "Puducherry, Puducherry",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NVVN-NIMHANS",
+    "capacityKwp": "1144",
+    "plantType": "opex",
+    "location": "Bangalore Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "AP_Rail_Railways ECR",
+    "capacityKwp": "1058.4",
+    "plantType": "renew opex",
+    "location": "Vishakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Adhiparashakti College",
+    "capacityKwp": "1038.4",
+    "plantType": "renew opex",
+    "location": "Chennai, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Workshop SWR Hubli",
+    "capacityKwp": "1024",
+    "plantType": "renew opex",
+    "location": "Dharwad, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "TN_Inst_SRM University",
+    "capacityKwp": "1024",
+    "plantType": "renew opex",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "ICF Chennai",
+    "capacityKwp": "1001",
+    "plantType": "opex",
+    "location": "Chennai, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "ICF Chennai Ext.",
+    "capacityKwp": "1001",
+    "plantType": "opex",
+    "location": "Chennai, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "ROCKMAN Industries Ltd",
+    "capacityKwp": "1000.3",
+    "plantType": "opex",
+    "location": "Chittoor, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Ultratech",
+    "capacityKwp": "1000",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "AAI TIRUPATI",
+    "capacityKwp": "1000",
+    "plantType": "opex",
+    "location": "Chittoor, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "HUL (Hosur)",
+    "capacityKwp": "1000",
+    "plantType": "opex",
+    "location": "Krishnagiri, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Schneider Electric Pvt Ltd - Hyderabad",
+    "capacityKwp": "999.9",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NIT (Warangal)",
+    "capacityKwp": "999.7",
+    "plantType": "opex",
+    "location": "Warangal, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Sanofi Healthcare India Hyd",
+    "capacityKwp": "999.54",
+    "plantType": "opex",
+    "location": "Medchal-Malkajgiri, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NCL Veka Ltd-Sangareddy",
+    "capacityKwp": "999.47",
+    "plantType": "opex",
+    "location": "Medak, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Pearl Beverages Limited - Vizag",
+    "capacityKwp": "998.44",
+    "plantType": "opex",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "MOBIS INDIA LIMITED- PD6",
+    "capacityKwp": "998.3",
+    "plantType": "opex",
+    "location": "Tiruvallur, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NCL Kondapalli Phase 1",
+    "capacityKwp": "998.3",
+    "plantType": "renew opex",
+    "location": "Krishna, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "KA_Inst_Alva",
+    "capacityKwp": "997.38",
+    "plantType": "renew opex",
+    "location": "Dakshina Kannada, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "HSIL Motinagar",
+    "capacityKwp": "996",
+    "plantType": "opex",
+    "location": "Hyderabad, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Synergies Casting",
+    "capacityKwp": "994.5",
+    "plantType": "renew opex",
+    "location": "Vishakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "V-Guard Consumers Products Limited",
+    "capacityKwp": "991.9",
+    "plantType": "opex",
+    "location": "Mahabubnagar, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Aparna Enterprises",
+    "capacityKwp": "985.6",
+    "plantType": "renew opex",
+    "location": "East Godavari, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "HUL Puducherry",
+    "capacityKwp": "979.3",
+    "plantType": "opex",
+    "location": "Villupuram, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NRI Academy",
+    "capacityKwp": "972.8",
+    "plantType": "renew opex",
+    "location": "Guntur, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Manjushree Technopack (Vizag)",
+    "capacityKwp": "954.84",
+    "plantType": "opex",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "BITS Pilani Hyderabad",
+    "capacityKwp": "947.7",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Pearl Beverages Limited - Guntur",
+    "capacityKwp": "941.215",
+    "plantType": "opex",
+    "location": "Guntur, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "SCR GUNTAKAL",
+    "capacityKwp": "914.56",
+    "plantType": "renew opex",
+    "location": "Anantapuram, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "L&T Rubber Processing Machineries",
+    "capacityKwp": "906.4",
+    "plantType": "opex",
+    "location": "Kancheepuram, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Toyota Auto Parts (TKAP)",
+    "capacityKwp": "903.5",
+    "plantType": "renew opex",
+    "location": "Ramanagara, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Madura Coats 2 Madurai",
+    "capacityKwp": "889.6",
+    "plantType": "renew opex",
+    "location": "Madurai, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "BVV Bagalkot",
+    "capacityKwp": "856.8",
+    "plantType": "renew opex",
+    "location": "Bagalkot, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Hindustan Coca-Cola Beverages",
+    "capacityKwp": "806.68",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NCL Buildtek Nellore",
+    "capacityKwp": "785.4",
+    "plantType": "renew opex",
+    "location": "Sri Potti Sriramulu Nellore District, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Schneider Electric India Pvt Ltd-Chennai",
+    "capacityKwp": "765",
+    "plantType": "opex",
+    "location": "Chennai, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Ascendas Bangalore",
+    "capacityKwp": "753",
+    "plantType": "opex",
+    "location": "Bangalore Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "SWR-I Hubli & SWR-III Hubli Railway station",
+    "capacityKwp": "728.62",
+    "plantType": "renew opex",
+    "location": "Dharwad, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "PJTS Agricultural University (Hydrabad)",
+    "capacityKwp": "717.6",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Mainetti India Pvt Ltd - Sriperumbudur",
+    "capacityKwp": "701.96",
+    "plantType": "opex",
+    "location": "Kancheepuram, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Pricol Ltd  (Coimbatore)",
+    "capacityKwp": "700.26",
+    "plantType": "opex",
+    "location": "Coimbatore, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Reddy’s Laboratories Limited(Biologics Bachupally)",
+    "capacityKwp": "684.07",
+    "plantType": "opex",
+    "location": "Medchal, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Aurore Pharmaceuticals Pvt Ltd.",
+    "capacityKwp": "664.88",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "SWR-III EMD Sheds",
+    "capacityKwp": "650.88",
+    "plantType": "renew opex",
+    "location": "Dharwad, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Parker Hannifin India Pvt Ltd Chennai",
+    "capacityKwp": "640.44",
+    "plantType": "opex",
+    "location": "Chengalpattu, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "SCR Lalaguda",
+    "capacityKwp": "633.75",
+    "plantType": "renew opex",
+    "location": "Hyderabad, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "CRPF Hakimpet",
+    "capacityKwp": "632.45",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Sintex BAPL",
+    "capacityKwp": "609.92",
+    "plantType": "opex",
+    "location": "Kanchipuram, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Vizag Port Trust(VPT)",
+    "capacityKwp": "592.64",
+    "plantType": "renew opex",
+    "location": "Vishakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "SPAR Hyderabad",
+    "capacityKwp": "585",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "KA_C&I_Toyota Boshoku Bidadi",
+    "capacityKwp": "583.7",
+    "plantType": "renew opex",
+    "location": "Bangalore Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "AP_Rail_SCR Tirupati",
+    "capacityKwp": "563.2",
+    "plantType": "renew opex",
+    "location": "Chittoor, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Walmart (Tirupati)",
+    "capacityKwp": "557.16",
+    "plantType": "opex",
+    "location": "Chittoor, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Uppal)",
+    "capacityKwp": "547.56",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "KA_Inst_Manipal Academy",
+    "capacityKwp": "534.3",
+    "plantType": "renew opex",
+    "location": "Udupi, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Parker Hannifin India Pvt Ltd-Hyderabad - Unit 1",
+    "capacityKwp": "534.1",
+    "plantType": "opex",
+    "location": "Sangareddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Metro Cash & Carry (Visakhapatnam)",
+    "capacityKwp": "521.26",
+    "plantType": "opex",
+    "location": "Vishakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Reddy’s Laboratories Limited(FTO-11)",
+    "capacityKwp": "519.92",
+    "plantType": "opex",
+    "location": "Srikakulam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Walmart (Vijayawada)",
+    "capacityKwp": "510.84",
+    "plantType": "opex",
+    "location": "Krishna, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "TN_C&I_Madura 1",
+    "capacityKwp": "510",
+    "plantType": "renew opex",
+    "location": "Tirunelveli, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Mainetti India Pvt Ltd - Sunguvachachiram",
+    "capacityKwp": "506.305",
+    "plantType": "opex",
+    "location": "Tiruvallur, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "KA_Inst_Lakshmi Memorial",
+    "capacityKwp": "506",
+    "plantType": "renew opex",
+    "location": "Dakshina Kannada, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "TN_Inst_Natural Remedies",
+    "capacityKwp": "503.6",
+    "plantType": "renew opex",
+    "location": "Krishnagiri, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Navodaya",
+    "capacityKwp": "500.3",
+    "plantType": "opex",
+    "location": "Raichur, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Walmart (Vizag)",
+    "capacityKwp": "500.1",
+    "plantType": "opex",
+    "location": "Vishakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "P K Das Institute of Medical Science",
+    "capacityKwp": "500",
+    "plantType": "opex",
+    "location": "Palakad, Kerala",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Navodaya Hospital",
+    "capacityKwp": "500",
+    "plantType": "opex",
+    "location": "Raichur, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Walmart (Kurnool)",
+    "capacityKwp": "488.4",
+    "plantType": "opex",
+    "location": "Kurnool, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NCL Buildtek Limited Kavuluru",
+    "capacityKwp": "485.4",
+    "plantType": "opex",
+    "location": "Krishna, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NVVN-AIISH",
+    "capacityKwp": "472",
+    "plantType": "opex",
+    "location": "Mysuru, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Symbiosis (Hyd)",
+    "capacityKwp": "467.765",
+    "plantType": "opex",
+    "location": "Adilabad, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "M J Casting (Minda)",
+    "capacityKwp": "467.28",
+    "plantType": "opex",
+    "location": "Krishnagiri, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Mangalore University",
+    "capacityKwp": "458.9",
+    "plantType": "renew opex",
+    "location": "Dakshina Kannada, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "KA_Inst_Yenapoya University",
+    "capacityKwp": "454.67",
+    "plantType": "renew opex",
+    "location": "Dakshina Kannada, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Akzo Nobel (Banglore)",
+    "capacityKwp": "453.7",
+    "plantType": "opex",
+    "location": "Bangalore Rural, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Solara Active Pharma, Cuddalore",
+    "capacityKwp": "452.92",
+    "plantType": "opex",
+    "location": "Cuddalore, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Metro Cash & Carry (Vijayawada)",
+    "capacityKwp": "450.72",
+    "plantType": "opex",
+    "location": "Krishna, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Walmart (Karimnagar)",
+    "capacityKwp": "435.6",
+    "plantType": "opex",
+    "location": "Karimnagar, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "SWR-II Bangalore",
+    "capacityKwp": "426.8",
+    "plantType": "renew opex",
+    "location": "Bangalore Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Sri Adichunchanagiri Shikshana Trust 1",
+    "capacityKwp": "423.68",
+    "plantType": "renew opex",
+    "location": "Bengaluru Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Ascendas-HYD-AAIPL",
+    "capacityKwp": "419",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Metro Cash & carry Pvt Ltd ( BESS ), Bangalore",
+    "capacityKwp": "416.07",
+    "plantType": "opex",
+    "location": "Bengaluru, karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Mahindra Holidays & Resorts Pvt Ltd (Club Mahindra)",
+    "capacityKwp": "403.5",
+    "plantType": "opex",
+    "location": "Puducherry, Puducherry",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "TS_C&I_NCL Choutuppal",
+    "capacityKwp": "402",
+    "plantType": "renew opex",
+    "location": "Nalgonda, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Madura Coats Private Limited-(Madurai)-Phase-3",
+    "capacityKwp": "390",
+    "plantType": "renew opex",
+    "location": "Madurai, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "KA_Inst_Dayanand Sagar",
+    "capacityKwp": "381.66",
+    "plantType": "renew opex",
+    "location": "Bengaluru Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "SWR-I Bangalore",
+    "capacityKwp": "374.2",
+    "plantType": "renew opex",
+    "location": "Bangalore Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Madura Coats 3 Tuticorin",
+    "capacityKwp": "368.88",
+    "plantType": "renew opex",
+    "location": "Madurai, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D-Mart Sheelanagar",
+    "capacityKwp": "346.92",
+    "plantType": "opex",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Akzo Nobel (Hyderabad)",
+    "capacityKwp": "337.02",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Suja Shoie - Tindivanam",
+    "capacityKwp": "326.3",
+    "plantType": "opex",
+    "location": "Villupuram, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Fleming Laboratories Limited",
+    "capacityKwp": "306.475",
+    "plantType": "opex",
+    "location": "Medak, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Laurus Lab Limited-Unit-3",
+    "capacityKwp": "303.6",
+    "plantType": "renew opex",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "KA_C&I_Toyota Boshoku Hosur",
+    "capacityKwp": "297",
+    "plantType": "renew opex",
+    "location": "Krishnagiri, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Ganguru)",
+    "capacityKwp": "289.14",
+    "plantType": "opex",
+    "location": "Krishna, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Metro Cash & Carry (Guntur)",
+    "capacityKwp": "280.06",
+    "plantType": "opex",
+    "location": "Guntur, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "TS_C&I_DLF Hyderbad",
+    "capacityKwp": "273.4",
+    "plantType": "renew opex",
+    "location": "Hyderabad, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "KA_C&I_NXtGen",
+    "capacityKwp": "265.2",
+    "plantType": "renew opex",
+    "location": "Ramanagara, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Navodaya 2",
+    "capacityKwp": "264",
+    "plantType": "opex",
+    "location": "Raichur, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Laurus Lab Limited-Unit-1",
+    "capacityKwp": "261",
+    "plantType": "renew opex",
+    "location": "Vishakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Proddutur)",
+    "capacityKwp": "260.51",
+    "plantType": "opex",
+    "location": "YSR District, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "KA_Inst_PES Mandya",
+    "capacityKwp": "255.36",
+    "plantType": "renew opex",
+    "location": "Mandya, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "FORUM SUJANA MALL",
+    "capacityKwp": "243.2",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Madura Coats Private Limited (Ambasamuthram)-Old-Phase-3",
+    "capacityKwp": "240.5",
+    "plantType": "renew opex",
+    "location": "Tirunelveli, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Madanapalli)",
+    "capacityKwp": "224.54",
+    "plantType": "opex",
+    "location": "Chittoor, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "CRPF- Chandrayangutta",
+    "capacityKwp": "220",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Karakambadi-Tirupati)",
+    "capacityKwp": "215",
+    "plantType": "opex",
+    "location": "Chittoor, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "KA_Rail_SWR Mysore",
+    "capacityKwp": "214.4",
+    "plantType": "renew opex",
+    "location": "Mysuru, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NITTE Education Trust 3",
+    "capacityKwp": "206",
+    "plantType": "renew opex",
+    "location": "Dakshina Kannada, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "KA_Inst_BGS 2 Bangalore",
+    "capacityKwp": "204.8",
+    "plantType": "renew opex",
+    "location": "Chikballapur, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "CRIDA (Hyderabad)",
+    "capacityKwp": "200",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Kushaiguda)",
+    "capacityKwp": "195",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Ascendas-HYD-DRVPL",
+    "capacityKwp": "195",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Airport Road - Rajahmundry)",
+    "capacityKwp": "192.6",
+    "plantType": "opex",
+    "location": "East Godavari, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "TS_C&I_NCL Buildtek Ratnapuri",
+    "capacityKwp": "191.4",
+    "plantType": "renew opex",
+    "location": "Medak, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D-Mart Karimnagar-2 (RCC)",
+    "capacityKwp": "189.66",
+    "plantType": "opex",
+    "location": "Karimnagar, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NITTE Education Trust 2",
+    "capacityKwp": "188",
+    "plantType": "renew opex",
+    "location": "Dakshina Kannada, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Parker Hannifin India Pvt Ltd-Hyderabad",
+    "capacityKwp": "183.6",
+    "plantType": "opex",
+    "location": "Sangareddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "SWR-III Bellary",
+    "capacityKwp": "182.4",
+    "plantType": "renew opex",
+    "location": "Ballari, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Nizampet)",
+    "capacityKwp": "180.94",
+    "plantType": "opex",
+    "location": "Medchal-Malkajgiri, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Isnapur)",
+    "capacityKwp": "177.21",
+    "plantType": "opex",
+    "location": "Medak, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Sri Adichunchanagiri Shikshana Trust 3",
+    "capacityKwp": "170.24",
+    "plantType": "renew opex",
+    "location": "Bengaluru Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "BSNL Gachibowli",
+    "capacityKwp": "169.65",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Aurigene Pharmaceutical Services Limited",
+    "capacityKwp": "169.06",
+    "plantType": "opex",
+    "location": "Rangareddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Solara Active Pharma,Mysore",
+    "capacityKwp": "168.96",
+    "plantType": "opex",
+    "location": "Mysuru, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Devanahalli)",
+    "capacityKwp": "161.92",
+    "plantType": "opex",
+    "location": "Bangalore, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Mancherial)",
+    "capacityKwp": "154.44",
+    "plantType": "opex",
+    "location": "Adilabad, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "SWR-II Rail Soudha",
+    "capacityKwp": "153.6",
+    "plantType": "renew opex",
+    "location": "Dharwad, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Rinac B'lore",
+    "capacityKwp": "150",
+    "plantType": "opex",
+    "location": "Bangalore Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Anakapalle)",
+    "capacityKwp": "144.97",
+    "plantType": "opex",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Ascendas-HYD-CPITTPL",
+    "capacityKwp": "142",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Kanakapura)",
+    "capacityKwp": "134.4",
+    "plantType": "opex",
+    "location": "Bangalore Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Car Port - Rajahmundry)",
+    "capacityKwp": "130",
+    "plantType": "opex",
+    "location": "East Godavari, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (RCC - Rajahmundry)",
+    "capacityKwp": "130",
+    "plantType": "opex",
+    "location": "East Godavari, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Bhimavaram)",
+    "capacityKwp": "124.8",
+    "plantType": "opex",
+    "location": "West Godavari, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "SWR-III Gadag",
+    "capacityKwp": "124.16",
+    "plantType": "renew opex",
+    "location": "Gadag, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "NITTE Education Trust 1",
+    "capacityKwp": "121.7",
+    "plantType": "renew opex",
+    "location": "Dakshina Kannada, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Mangalore - II)",
+    "capacityKwp": "121.6",
+    "plantType": "opex",
+    "location": "Dakshina Kannada, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Warangal-II)",
+    "capacityKwp": "120",
+    "plantType": "opex",
+    "location": "Warangal, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "TN_C&I_Sona-Koyo Chennai",
+    "capacityKwp": "115.32",
+    "plantType": "renew opex",
+    "location": "Kanchipuram, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart Gopalapatnam",
+    "capacityKwp": "113.3",
+    "plantType": "opex",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Nelemangala)",
+    "capacityKwp": "111",
+    "plantType": "opex",
+    "location": "Bangalore Rural, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Car Port - Gudivada)",
+    "capacityKwp": "106.92",
+    "plantType": "opex",
+    "location": "Krishna, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Guntur Ring Road)",
+    "capacityKwp": "104.52",
+    "plantType": "opex",
+    "location": "Guntur, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Car Port - Kakinada)",
+    "capacityKwp": "103.68",
+    "plantType": "opex",
+    "location": "East Godavari, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Car Port - Nellore)",
+    "capacityKwp": "103.68",
+    "plantType": "opex",
+    "location": "Sri Potti Sriramulu Nellore, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Tuni)",
+    "capacityKwp": "103.4",
+    "plantType": "opex",
+    "location": "East Godavari, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "SWR-III Hospet",
+    "capacityKwp": "102",
+    "plantType": "renew opex",
+    "location": "Ballari, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Chettipuniyam)",
+    "capacityKwp": "100.28",
+    "plantType": "opex",
+    "location": "Chengalpattu, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Coimbatore)",
+    "capacityKwp": "100",
+    "plantType": "opex",
+    "location": "Coimbatore, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Nellore)",
+    "capacityKwp": "99.22",
+    "plantType": "opex",
+    "location": "Nellore, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Big Basket Chennai",
+    "capacityKwp": "99.2",
+    "plantType": "opex",
+    "location": "Tiruvallur, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Dindigul)",
+    "capacityKwp": "99.06",
+    "plantType": "opex",
+    "location": "Dindigul, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Shoolgiri)",
+    "capacityKwp": "99",
+    "plantType": "opex",
+    "location": "Krishnagiri, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Suja Shoie - Villianur",
+    "capacityKwp": "98.8",
+    "plantType": "opex",
+    "location": "Thanjavur, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Sri Adichunchanagiri Shikshana Trust 2",
+    "capacityKwp": "97.28",
+    "plantType": "renew opex",
+    "location": "Bangalore Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Sulur)",
+    "capacityKwp": "96.94",
+    "plantType": "opex",
+    "location": "Coimbatore, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Madurai)",
+    "capacityKwp": "96.94",
+    "plantType": "opex",
+    "location": "Madurai, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Big Basket Hyderabad",
+    "capacityKwp": "95.875",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Vijaywada)",
+    "capacityKwp": "93.8",
+    "plantType": "opex",
+    "location": "Krishna, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Gudivada)",
+    "capacityKwp": "88.8",
+    "plantType": "opex",
+    "location": "Krishna, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Car Port - Machilipatnam)",
+    "capacityKwp": "88.56",
+    "plantType": "opex",
+    "location": "Krishna, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Gajuwaka)",
+    "capacityKwp": "85.8",
+    "plantType": "opex",
+    "location": "Vishakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Ongole)",
+    "capacityKwp": "81.9",
+    "plantType": "opex",
+    "location": "Prakasam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Tirupur)",
+    "capacityKwp": "77.22",
+    "plantType": "opex",
+    "location": "Tiruppur, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Tanuku)",
+    "capacityKwp": "74",
+    "plantType": "opex",
+    "location": "West Godavari, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Trichy)",
+    "capacityKwp": "67.92",
+    "plantType": "opex",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Sarjapura)",
+    "capacityKwp": "66",
+    "plantType": "opex",
+    "location": "Bangalore Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Ascendas-HYD-HIPL",
+    "capacityKwp": "66",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "BSNL Patancheru",
+    "capacityKwp": "65",
+    "plantType": "opex",
+    "location": "Medak, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Ghatkesar)",
+    "capacityKwp": "63.5999",
+    "plantType": "opex",
+    "location": "Medchal-Malkajgiri, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Machilipatnam)",
+    "capacityKwp": "63.18",
+    "plantType": "opex",
+    "location": "Krishna, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Khammam)",
+    "capacityKwp": "63.05",
+    "plantType": "opex",
+    "location": "Khammam, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Forum Sujana Mall Hyderabad",
+    "capacityKwp": "60.3",
+    "plantType": "opex",
+    "location": "Hyderabad, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Hosur)",
+    "capacityKwp": "59.2",
+    "plantType": "opex",
+    "location": "Krishnagiri, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Car Port - Kushaiguda)",
+    "capacityKwp": "58.32",
+    "plantType": "opex",
+    "location": "Medchal-Malkajgiri, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Madhurwada)",
+    "capacityKwp": "58.2",
+    "plantType": "opex",
+    "location": "Vishakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Electronic City)",
+    "capacityKwp": "56.4",
+    "plantType": "opex",
+    "location": "Bangalore Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Airport Road - Rajahmundry Carport)",
+    "capacityKwp": "52.92",
+    "plantType": "opex",
+    "location": "East Godavari, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Yelahanka)",
+    "capacityKwp": "52",
+    "plantType": "opex",
+    "location": "Bangalore Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Anantapur)",
+    "capacityKwp": "52",
+    "plantType": "opex",
+    "location": "Anantapuram, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "TS_C&I_NCL Buildtek GP Pally",
+    "capacityKwp": "50.16",
+    "plantType": "renew opex",
+    "location": "Hyderabad, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Eluru)",
+    "capacityKwp": "50.1",
+    "plantType": "opex",
+    "location": "West Godavari, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Sanath Nagar)",
+    "capacityKwp": "49.4",
+    "plantType": "opex",
+    "location": "Hyderabad, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Ramanthpur)",
+    "capacityKwp": "47.6",
+    "plantType": "opex",
+    "location": "Hyderabad, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Karimnagar)",
+    "capacityKwp": "45.36",
+    "plantType": "opex",
+    "location": "Karimnagar, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart  (Car Port - Mancherial)",
+    "capacityKwp": "45.36",
+    "plantType": "opex",
+    "location": "Mancherial, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D-Mart Karimnagar-2 (Carport)",
+    "capacityKwp": "38.88",
+    "plantType": "opex",
+    "location": "Karimnagar, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Airplaza Retail Holding Private Limited - Yelahanka",
+    "capacityKwp": "38",
+    "plantType": "renew opex",
+    "location": "Bengaluru, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Podanur)",
+    "capacityKwp": "37.62",
+    "plantType": "opex",
+    "location": "Coimbatore, Tamil Nadu",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Vishal Mega Mart (Mancherial)",
+    "capacityKwp": "36.1",
+    "plantType": "opex",
+    "location": "Adilabad, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Vishal Mega Mart (Boduppal)",
+    "capacityKwp": "34.2",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Tirupati)",
+    "capacityKwp": "33.075",
+    "plantType": "opex",
+    "location": "Chittoor, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Madinaguda)",
+    "capacityKwp": "32.5",
+    "plantType": "opex",
+    "location": "Rangareddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Airplaza Retail Holding Private Limited - Shivamogga Stores",
+    "capacityKwp": "32",
+    "plantType": "renew opex",
+    "location": "Shivamogga, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Kakinada)",
+    "capacityKwp": "30.5",
+    "plantType": "opex",
+    "location": "East Godavari, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Vishal Mega Mart (Kalimandir)",
+    "capacityKwp": "24.32",
+    "plantType": "opex",
+    "location": "Ranga Reddy, Telangana",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "D Mart (Marripalem)",
+    "capacityKwp": "23.4",
+    "plantType": "opex",
+    "location": "Vishakhapatnam, Andhra Pradesh",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Airplaza Retail Holding Private Limited - Ramamurthy Nagar",
+    "capacityKwp": "19.5",
+    "plantType": "renew opex",
+    "location": "Bengaluru (Bangalore) Urban, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Airplaza Retail Holding Private Limited - Veradhalli",
+    "capacityKwp": "13",
+    "plantType": "renew opex",
+    "location": "Bengaluru, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  },
+  {
+    "plantName": "Airplaza Retail Holding Private Limited - Bijapur Stores",
+    "capacityKwp": "12.2",
+    "plantType": "renew opex",
+    "location": "Vijayapura, Karnataka",
+    "Zone": "South",
+    "plantOwner": "6836617a6ef4be3ee5d9b8f7"
+  }
+]

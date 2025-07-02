@@ -1,0 +1,54 @@
+const PlantNames = require("../models/plants");
+const catchAsync = require("../utilis/catchAsync");
+const User = require("../models/user");
+
+exports.createPlant = catchAsync(async (req, res, next) => {
+  const existingPlant = await PlantNames.findOne({
+    plantName: req.body.plantName,
+  });
+
+  if (existingPlant) {
+    return res.status(400).json({
+      status: "fail",
+      message: "Plant name already exists",
+    });
+  }
+  const plant = await PlantNames.create(req.body);
+
+  res.status(201).json({
+    status: "success",
+    data: {
+      plant,
+    },
+  });
+});
+
+exports.getAllPlants = catchAsync(async (req, res, next) => {
+  const plants = await PlantNames.find().populate("plantOwner", "name");
+  res.status(200).json({
+    status: "success",
+    results: plants.length,
+    data: {
+      plants,
+    },
+  });
+});
+
+exports.plantAssigntoUser = catchAsync(async (req, res, next) => {
+  const { plantId, ...fieldsToUpdate } = req.body;
+  if (!plantId || !fieldsToUpdate) {
+    return res.status(400).json({
+      status: "fail",
+      message: "plantIds and assignedEngineer are required",
+    });
+  }
+  const plant = await PlantNames.findByIdAndUpdate(plantId, fieldsToUpdate, {
+    new: true,
+  });
+  res.status(200).json({
+    status: "success",
+    data: {
+      plant,
+    },
+  });
+});
