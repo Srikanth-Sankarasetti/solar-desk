@@ -169,7 +169,7 @@ exports.forgotPassword = catchAsync(async (req, res, next) => {
     html: `
     <h2>Password Reset Request</h2>
     <p>Click below to reset your password:</p>
-    <a href="${resetUrl}">${resetUrl}</a>
+    <a href="${resetUrl}">Reset Your Password</a>
     <p>This link expires in 15 minutes.</p>`,
   };
   try {
