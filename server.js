@@ -1,6 +1,5 @@
 const app = require("./app");
 const mongoose = require("mongoose");
-const AppError = require("./utilis/appError");
 
 const port = process.env.PORT || 3000;
 
