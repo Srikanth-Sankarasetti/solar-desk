@@ -9,12 +9,14 @@ const userRouter = require("./routers/userRoutes");
 const plantRouter = require("./routers/plantRoutes");
 const issueRouter = require("./routers/issuesRouter");
 const globalErrorHandler = require("./utilis/globalErrorHandler");
+const compression = require("compression");
 
 app.use(express.json());
 app.use(express.static(`${__dirname}/public`));
 app.use(morgan("dev"));
 
 app.use(cors());
+app.use(compression());
 
 app.use("/api/solar/v1/users", userRouter);
 app.use("/api/solar/v1/plants", plantRouter);
