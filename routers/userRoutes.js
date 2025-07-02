@@ -6,6 +6,19 @@ const router = express.Router();
 //user login
 router.post("/login", userController.loginUser);
 
+//get all users
+router
+  .route("/")
+  .get(
+    authController.protector,
+    authController.restrictTo("admin", "manager"),
+    userController.getAllUsers
+  )
+  .post(userController.createUser);
+
+//forgot password
+router.post("/forgotPassword", authController.forgotPassword);
+
 //account approval
 router.post(
   "/approve/:id",
@@ -32,21 +45,8 @@ router.patch(
 //email verfication on signup
 router.get("/verifyEmail/:token", userController.userEmailVerifcation);
 
-//forgot password
-router.post("/forgotPassword", authController.forgotPassword);
-
 //password reset
 router.patch("/reset-password/:token", authController.resetPassword);
-
-//get all users
-router
-  .route("/")
-  .get(
-    authController.protector,
-    authController.restrictTo("admin", "manager"),
-    userController.getAllUsers
-  )
-  .post(userController.createUser);
 
 router.get("/:id/getUser", authController.protector, userController.getUser);
 
