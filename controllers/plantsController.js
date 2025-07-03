@@ -1,6 +1,7 @@
 const PlantNames = require("../models/plants");
 const catchAsync = require("../utilis/catchAsync");
 const User = require("../models/user");
+const Issues = require("../models/issues");
 
 exports.createPlant = catchAsync(async (req, res, next) => {
   const existingPlant = await PlantNames.findOne({
@@ -45,6 +46,14 @@ exports.plantAssigntoUser = catchAsync(async (req, res, next) => {
   const plant = await PlantNames.findByIdAndUpdate(plantId, fieldsToUpdate, {
     new: true,
   });
+
+  // Update all issues related to this plant
+  await Issues.updateMany(
+    { plantId: plant._id },
+    { assignedEngineer: plant.plantOwner },
+    { runValidators: false }
+  );
+
   res.status(200).json({
     status: "success",
     data: {
