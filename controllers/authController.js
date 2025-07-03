@@ -4,9 +4,6 @@ const jwt = require("jsonwebtoken");
 const AppError = require("../utilis/appError");
 const sgMail = require("../utilis/email");
 const crypto = require("crypto");
-import { Resend } from "resend";
-
-const resend = new Resend(process.env.RESEND_KEY);
 
 exports.protector = catchAsync(async (req, res, next) => {
   const authHeader = req.headers.authorization;
@@ -177,7 +174,7 @@ exports.forgotPassword = catchAsync(async (req, res, next) => {
     <p>This link expires in 15 minutes.</p>`,
   };
   try {
-    await resend.emails.send(msg);
+    await sgMail.send(msg);
     res.status(200).json({
       status: "success",
       message: "Password resent token sent your mail",
