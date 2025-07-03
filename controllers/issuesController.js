@@ -57,9 +57,11 @@ exports.getAllIssues = catchAsync(async (req, res, next) => {
       actionDescription: 1,
       category: 1,
       typeOfLoss: 1,
-      Zone: 1,
+
       resolvedAt: 1,
+
       generationLossKwh: 1,
+      Zone: "$plant.Zone",
       plantName: "$plant.plantName",
       raisedByName: "$raisedByUser.name",
       assignedEngineerName: "$assignedEngineerUser.name",
