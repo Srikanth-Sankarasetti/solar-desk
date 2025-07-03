@@ -11,6 +11,9 @@ const cloudinary = require("../utilis/cloudinary");
 const storage = multer.memoryStorage();
 const sgMail = require("../utilis/email");
 const crypto = require("crypto");
+import { Resend } from "resend";
+
+const resend = new Resend(process.env.RESEND_KEY);
 
 const uploadBufferToCloudinary = (buffer, filename) => {
   return new Promise((resolve, reject) => {
@@ -52,7 +55,7 @@ exports.createUser = catchAsync(async (req, res, next) => {
   const verficationURL = `${process.env.FRONTEND_URL}/verify-email/${verficationToken}`;
 
   try {
-    await sgMail.send({
+    await resend.emails.send({
       to: email,
       from: "srikanthnani72888@gmail.com",
       subject: "Email Verification",
