@@ -108,11 +108,13 @@ exports.createIssue = catchAsync(async (req, res, next) => {
     return next(new AppError("Plant not found", 404));
   }
   const assignedEngineer = plant.plantOwner;
+  const Zone = plant.Zone;
   const issue = await Issues.create({
     issueTitle,
     plantId,
     issueTitleDescription,
     assignedEngineer,
+    Zone,
     raisedBy: req.userId,
   });
   res.status(201).json({
