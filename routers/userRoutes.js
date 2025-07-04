@@ -19,6 +19,12 @@ router
 //forgot password
 router.post("/forgotPassword", authController.forgotPassword);
 
+router.get(
+  "/userRole",
+  authController.protector,
+  userController.getLoginUserRole
+);
+
 //account approval
 router.post(
   "/approve/:id",

@@ -14,7 +14,13 @@ exports.createPlant = catchAsync(async (req, res, next) => {
       message: "Plant name already exists",
     });
   }
-  const plant = await PlantNames.create(req.body);
+
+  const newPlant = await PlantNames.create(req.body);
+  const plant = await PlantNames.findById(newPlant._id).populate(
+    "plantOwner",
+    "name"
+  );
+  console.log(plant.plantOwner);
 
   res.status(201).json({
     status: "success",

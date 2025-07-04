@@ -242,3 +242,12 @@ exports.getUser = catchAsync(async (req, res, next) => {
     user,
   });
 });
+
+exports.getLoginUserRole = catchAsync(async (req, res, next) => {
+  const userId = req.userId;
+  const user = await User.findById({ _id: userId });
+  if (!user) return res.status(404).json({ msg: "User not found" });
+  res.status(200).json({
+    role: user.role,
+  });
+});
