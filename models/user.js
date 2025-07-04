@@ -26,6 +26,7 @@ const userSchema = new mongoose.Schema(
     confirmPassword: {
       type: String,
       required: true,
+      select: false,
       validate: {
         validator: function (value) {
           return value === this.password;
@@ -35,7 +36,6 @@ const userSchema = new mongoose.Schema(
     },
     phone: {
       type: Number,
-      required: [true, "phone number required"],
       unique: true,
     },
     role: {
