@@ -49,11 +49,15 @@ exports.plantAssigntoUser = catchAsync(async (req, res, next) => {
       message: "plantIds and assignedEngineer are required",
     });
   }
-  const plant = await PlantNames.findByIdAndUpdate(plantId, fieldsToUpdate, {
-    new: true,
-  });
+  const plantDetails = await PlantNames.findByIdAndUpdate(
+    plantId,
+    fieldsToUpdate,
+    {
+      new: true,
+    }
+  );
 
-  const plantDeatils = await PlantNames.findById(plantId).populate(
+  const plant = await PlantNames.findById(plantId).populate(
     "plantOwner",
     "name"
   );
@@ -68,7 +72,6 @@ exports.plantAssigntoUser = catchAsync(async (req, res, next) => {
     status: "success",
     data: {
       plant,
-      plantDeatils,
     },
   });
 });
