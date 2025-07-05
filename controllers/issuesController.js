@@ -494,10 +494,10 @@ exports.downloadExcelReport = catchAsync(async (req, res, next) => {
     worksheet.addRow({
       issueTitle: issue.issueTitle,
       status: issue.status,
-      createdAt: issue.createdAt,
+      createdAt: createdAt,
       issueTitleDescription: issue.issueTitleDescription,
       actionDescription: issue.actionDescription,
-      category: createdAt,
+      category: issue.category,
       generationLossKwh: issue.generationLossKwh,
       resolvedAt: solvedAt,
       typeOfLoss: issue.typeOfLoss,
