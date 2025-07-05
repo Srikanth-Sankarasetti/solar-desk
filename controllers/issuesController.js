@@ -388,6 +388,8 @@ exports.updateOpenorInprogressIssue = catchAsync(async (req, res, next) => {
 
 exports.downloadExcelReport = catchAsync(async (req, res, next) => {
   const { startDate, endDate, plantType, zone, plantOwner } = req.body;
+  const { userId } = req.userId;
+  const user = await Users.findById(userId);
 
   const filter = {};
   if (startDate & endDate) {
@@ -399,6 +401,9 @@ exports.downloadExcelReport = catchAsync(async (req, res, next) => {
   if (plantType) filter["plant.plantType"] = plantType;
   if (zone) filter["plant.Zone"] = zone;
   if (plantOwner) filter["plant.plantOwner"] = plantOwner;
+  if (user.role !== "admin" && user.role !== "manager") {
+    filter[assignedEngineerUser.name] = assignedEngineerUser;
+  }
   const pipeline = [];
   if (Object.keys(filter).length > 0) {
     pipeline.push({
