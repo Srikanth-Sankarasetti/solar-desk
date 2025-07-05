@@ -53,6 +53,10 @@ exports.plantAssigntoUser = catchAsync(async (req, res, next) => {
     new: true,
   });
 
+  const plantDeatils = await PlantNames.findById(plantId).populate(
+    "plantOwner",
+    "name"
+  );
   // Update all issues related to this plant
   await Issues.updateMany(
     { plantId: plant._id },
@@ -64,6 +68,7 @@ exports.plantAssigntoUser = catchAsync(async (req, res, next) => {
     status: "success",
     data: {
       plant,
+      plantDeatils,
     },
   });
 });
