@@ -433,12 +433,15 @@ exports.downloadExcelReport = catchAsync(async (req, res, next) => {
         $cond: {
           if: { $and: ["$resolvedAt", "$createdAt"] },
           then: {
-            $floor: {
-              $divide: [
-                { $subtract: ["$resolvedAt", "$createdAt"] },
-                1000 * 60 * 60, // milliseconds to days
-              ],
-            },
+            $round: [
+              {
+                $divide: [
+                  { $subtract: ["$resolvedAt", "$createdAt"] },
+                  1000 * 60 * 60, // milliseconds to hours
+                ],
+              },
+              2, // round to 2 decimal places
+            ],
           },
           else: null,
         },
@@ -496,7 +499,7 @@ exports.downloadExcelReport = catchAsync(async (req, res, next) => {
       actionDescription: issue.actionDescription,
       category: issue.category,
       generationLossKwh: issue.generationLossKwh,
-      resolvedAt: issue.resolvedA,
+      resolvedAt: issue.resolvedAt,
       typeOfLoss: issue.typeOfLoss,
       tat: issue.tat,
       plantName: issue.plantName,
