@@ -388,9 +388,15 @@ exports.updateOpenorInprogressIssue = catchAsync(async (req, res, next) => {
 
 exports.downloadExcelReport = catchAsync(async (req, res, next) => {
   const { startDate, endDate, plantType, zone, plantOwner } = req.body;
-  const { userId } = req.userId;
-  const user = await Users.findById(userId);
-
+  const userId = req.userId;
+  console.log(req.userId);
+  const user = await Users.findById({ _id: userId });
+  if (!user) {
+    res.status(404).json({
+      status: "fail",
+      message: "user not found",
+    });
+  }
   const filter = {};
   if (startDate & endDate) {
     filter.createdAt = {
