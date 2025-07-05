@@ -487,19 +487,19 @@ exports.downloadExcelReport = catchAsync(async (req, res, next) => {
   });
 
   issues.forEach((issue) => {
-    // const createdAt = moment(issue.createdAt).format("DD-MM-YYYY");
-    // const solvedAt = issue.resolvedAt
-    //   ? moment(issue.resolvedAt).format("DD-MM-YYYY")
-    //   : null;
+    const createdAt = moment(issue.createdAt).format("DD-MM-YYYY hh:mm:ss A");
+    const solvedAt = issue.resolvedAt
+      ? moment(issue.resolvedAt).format("DD-MM-YYYY hh:mm:ss A")
+      : null;
     worksheet.addRow({
       issueTitle: issue.issueTitle,
       status: issue.status,
       createdAt: issue.createdAt,
       issueTitleDescription: issue.issueTitleDescription,
       actionDescription: issue.actionDescription,
-      category: issue.category,
+      category: createdAt,
       generationLossKwh: issue.generationLossKwh,
-      resolvedAt: issue.resolvedAt,
+      resolvedAt: solvedAt,
       typeOfLoss: issue.typeOfLoss,
       tat: issue.tat,
       plantName: issue.plantName,
