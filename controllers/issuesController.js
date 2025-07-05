@@ -402,7 +402,7 @@ exports.downloadExcelReport = catchAsync(async (req, res, next) => {
   if (zone) filter["plant.Zone"] = zone;
   if (plantOwner) filter["plant.plantOwner"] = plantOwner;
   if (user.role !== "admin" && user.role !== "manager") {
-    filter[assignedEngineerUser.name] = assignedEngineerUser;
+    filter["assignedEngineer"] = user._id;
   }
   const pipeline = [];
   if (Object.keys(filter).length > 0) {
