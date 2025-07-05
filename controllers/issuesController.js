@@ -436,7 +436,7 @@ exports.downloadExcelReport = catchAsync(async (req, res, next) => {
             $floor: {
               $divide: [
                 { $subtract: ["$resolvedAt", "$createdAt"] },
-                1000 * 60 * 60 * 24, // milliseconds to days
+                1000 * 60 * 60, // milliseconds to days
               ],
             },
           },
@@ -469,9 +469,9 @@ exports.downloadExcelReport = catchAsync(async (req, res, next) => {
     { header: "Generation Loss (kWh)", key: "generationLossKwh", width: 20 },
     { header: "Type of Loss", key: "typeOfLoss", width: 20 },
     { header: "Status", key: "status", width: 15 },
-    { header: "Created At", key: "createdAt", width: 18 },
-    { header: "Resolved At", key: "resolvedAt", width: 18 },
-    { header: "TAT (Days)", key: "tat", width: 12 },
+    { header: "Created At", key: "createdAt", width: 25 },
+    { header: "Resolved At", key: "resolvedAt", width: 25 },
+    { header: "TAT (Hours)", key: "tat", width: 12 },
   ];
 
   worksheet.getRow(1).eachCell((cell) => {
@@ -484,19 +484,19 @@ exports.downloadExcelReport = catchAsync(async (req, res, next) => {
   });
 
   issues.forEach((issue) => {
-    const createdAt = moment(issue.createdAt).format("DD-MM-YYYY");
-    const solvedAt = issue.resolvedAt
-      ? moment(issue.resolvedAt).format("DD-MM-YYYY")
-      : null;
+    // const createdAt = moment(issue.createdAt).format("DD-MM-YYYY");
+    // const solvedAt = issue.resolvedAt
+    //   ? moment(issue.resolvedAt).format("DD-MM-YYYY")
+    //   : null;
     worksheet.addRow({
       issueTitle: issue.issueTitle,
       status: issue.status,
-      createdAt: createdAt,
+      createdAt: issue.createdAt,
       issueTitleDescription: issue.issueTitleDescription,
       actionDescription: issue.actionDescription,
       category: issue.category,
       generationLossKwh: issue.generationLossKwh,
-      resolvedAt: solvedAt,
+      resolvedAt: issue.resolvedA,
       typeOfLoss: issue.typeOfLoss,
       tat: issue.tat,
       plantName: issue.plantName,
